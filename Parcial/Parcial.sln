@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCParcial", "MVCParcial\MV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIparcial", "APIparcial\APIparcial.csproj", "{85E3A1B7-025F-4F7B-AFE2-CF2B930909A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTparcial", "UTparcial\UTparcial.csproj", "{BEC3BD43-C27B-4A3E-B913-A4EAA055DF30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{85E3A1B7-025F-4F7B-AFE2-CF2B930909A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85E3A1B7-025F-4F7B-AFE2-CF2B930909A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85E3A1B7-025F-4F7B-AFE2-CF2B930909A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC3BD43-C27B-4A3E-B913-A4EAA055DF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC3BD43-C27B-4A3E-B913-A4EAA055DF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC3BD43-C27B-4A3E-B913-A4EAA055DF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC3BD43-C27B-4A3E-B913-A4EAA055DF30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
